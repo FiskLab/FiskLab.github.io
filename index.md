@@ -1,9 +1,10 @@
 ---
 ---
 
-# FiskLab's Website
-
-An engaging 1-3 sentence description of your lab.
+# Fisk Lab @ URI's Website
+## Please bear with us as the lab website is under-construction!
+The Fisk Lab is a dry-lab at URI focused on using "basic science" methods from evolution, population genetics, genomics, and bioinformatics as tools for translational research.
+We also pusure Discipline-Based Education Research (DBER) for Computational Biology
 
 {% include section.html %}
 
