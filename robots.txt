@@ -1,1 +1,1 @@
-Sitemap: /FiskLab_tmp/sitemap.xml
+Sitemap: /sitemap.xml
