@@ -1,82 +1,312 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
+- id: doi:10.1101/2023.08.07.552269
+  title: Purifying selection and adaptive evolution proximate to the zoonosis of SARS-CoV-1
+    and SARS-CoV-2
   authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
-  authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
+  - Jeffrey P. Townsend
+  - Stephen Gaughran
+  - Hayley B. Hassler
+  - J. Nicholas Fisk
+  - Mofeed Nagib
+  - Yinfei Wu
+  - Yaning Wang
+  - Zheng Wang
+  - Alison P. Galvani
+  - Alex Dornburg
   publisher: Cold Spring Harbor Laboratory
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
+  date: '2023-08-07'
+  link: https://doi.org/gsqw6k
+  orcid: 0000-0002-1940-393X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/gigascience/giad047
-  title: Hetnet connectivity search provides rapid insights into how biomedical entities
-    are related
+- id: doi:10.1158/1538-7445.am2023-126
+  title: 'Abstract 126: Extreme selection constrains ability of EGFR-driven lung adenocarcinoma
+    to diversify in response to erlotinib therapy'
   authors:
-  - Daniel S Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N Nicholson
-  - Yun Hao
-  - Blair D Sullivan
-  - Michael W Nagle
-  - Casey S Greene
-  publisher: GigaScience
-  date: '2022-12-28'
-  link: https://doi.org/gsd85n
-  orcid: 0000-0002-4655-3773
+  - J Nicholas Fisk
+  - Stephen Gaffney
+  - Katerina Politi
+  - Scott Gettinger
+  - Fernando de Miguel
+  - Jeffrey Townsend
+  publisher: Cancer Research
+  date: '2023-04-04'
+  link: https://doi.org/gsqw6m
+  orcid: 0000-0002-1940-393X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
+- id: doi:10.1158/1538-7445.sabcs22-p5-14-07
+  title: 'Abstract P5-14-07: Somatic mutations of ER and HER2 subtypes exhibit divergent
+    evolutionary trajectories determined by selective epistasis revealed in phylogenetic
+    reconstruction and stage-specific analyses'
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
+  - Krishna Dasari
+  - J. Nick Fisk
+  - Jeffrey Townsend
+  publisher: Cancer Research
+  date: '2023-03-01'
+  link: https://doi.org/gsqw6n
+  orcid: 0000-0002-1940-393X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41375-022-01752-5
+  title: Not only mutations but also tumorigenesis can be substantially attributed
+    to DNA damage from reactive oxygen species in RUNX1::RUNX1T1-fusion-positive acute
+    myeloid leukemia
+  authors:
+  - Jeffrey D. Mandell
+  - J. Nick Fisk
+  - Ethan Cyrenne
+  - Mina L. Xu
+  - Vincent L. Cannataro
+  - Jeffrey P. Townsend
+  publisher: Leukemia
+  date: '2022-11-11'
+  link: https://doi.org/gsqw6p
+  orcid: 0000-0002-1940-393X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: ':'
+  title: 'Killing Two Birds with One Stone: The Concurrent Development of the Novel
+    Alignment Free Tree Building Method, Scrawkov-Phy, and the Extensible Phyloinformatics
+    Utility, EMU-Phy.'
+  publisher: 'Exploring how we teach: Lived experiences, lessons, and research about
+    graduate instructors by graduate instructors '
+  date: '2019-08-15'
+  link: https://scholarworks.rit.edu/theses/9000/
+  orcid: 0000-0002-1940-393X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.canlet.2021.11.011
+  title: Premetastatic shifts of endogenous and exogenous mutational processes support
+    consolidative therapy in EGFR-driven lung adenocarcinoma
+  authors:
+  - J. Nicholas Fisk
+  - Amandeep R. Mahal
+  - Alex Dornburg
+  - Stephen G. Gaffney
+  - Sanjay Aneja
+  - Joseph N. Contessa
+  - David Rimm
+  - James B. Yu
+  - Jeffrey P. Townsend
+  publisher: Cancer Letters
+  date: '2022-02-01'
+  link: https://doi.org/gsqw6q
+  orcid: 0000-0002-1940-393X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/s40246-022-00379-y
+  title: Why are keratins important?
+  authors:
+  - Jeffrey Nicholas Fisk
+  - Daniel W. Nebert
+  publisher: Human Genomics
+  date: '2022-01-30'
+  link: https://doi.org/gsqw6r
+  orcid: 0000-0002-1940-393X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/s40246-021-00374-9
+  title: 'Update of the keratin gene family: evolution, tissue-specific expression
+    patterns, and relevance to clinical disorders'
+  authors:
+  - Minh Ho
+  - Brian Thompson
+  - Jeffrey Nicholas Fisk
+  - Daniel W. Nebert
+  - Elspeth A. Bruford
+  - Vasilis Vasiliou
+  - Christopher G. Bunick
+  publisher: Human Genomics
+  date: '2022-01-06'
+  link: https://doi.org/gsqw6s
+  orcid: 0000-0002-1940-393X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.17660/actahortic.2021.1318.34
+  title: Insights into the impact of geography and genetics on the microbiome of <i>Carya
+    illinoinensis</i>
+  authors:
+  - J. Randall
+  - K. Cervantes
+  - D.K. Ray
+  - A. Sanchez
+  - K. Mason
+  - J.N. Fisk
+  - J.R. Soneji
+  - L. Sanchez
+  - L.J. Grauke
+  - X. Wang
+  publisher: Acta Horticulturae
+  date: '2021-08-01'
+  link: https://doi.org/gsqw6t
+  orcid: 0000-0002-1940-393X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.17660/actahortic.2021.1318.24
+  title: RNA-Seq analysis of genes involved in pistillate flower initiation in<i>Carya
+    illinoinensis</i>
+  authors:
+  - H. Rhein
+  - S. Barnes
+  - B. Van Scyoc
+  - J.N. Fisk
+  - Mingzhou Song
+  - M. Thompson
+  - R. Heerema
+  - J. Randall
+  publisher: Acta Horticulturae
+  date: '2021-08-01'
+  link: https://doi.org/gsqw6v
+  orcid: 0000-0002-1940-393X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2021.05.04.21256425
+  title: Clinically relevant shifts in endogenous and exogenous mutational processes
+    proximate to metastasis support local consolidative treatment in EGFR-driven non-small
+    cell lung cancer
+  authors:
+  - J. Nicholas Fisk
+  - Amandeep R. Mahal
+  - Alex Dornburg
+  - Stephen G. Gaffney
+  - Sanjay Aneja
+  - Joseph N. Contessa
+  - David Rimm
+  - James B. Yu
+  - Jeffrey P. Townsend
+  publisher: Cold Spring Harbor Laboratory
+  date: '2021-05-04'
+  link: https://doi.org/gsqw6w
+  orcid: 0000-0002-1940-393X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1126/scitranslmed.aax0904
+  title: Overexpression of T-bet in HIV infection is associated with accumulation
+    of B cells outside germinal centers and poor affinity maturation
+  authors:
+  - James W. Austin
+  - Clarisa M. Buckner
+  - Lela Kardava
+  - Wei Wang
+  - Xiaozhen Zhang
+  - Valerie A. Melson
+  - Ryan G. Swanson
+  - Andrew J. Martins
+  - Julian Q. Zhou
+  - Kenneth B. Hoehn
+  - J. Nicholas Fisk
+  - Yiannis Dimopoulos
+  - Alexander Chassiakos
+  - "Sijy O\u2019Dell"
+  - Margery G. Smelkinson
+  - Catherine A. Seamon
+  - Richard W. Kwan
+  - Michael C. Sneller
+  - Stefania Pittaluga
+  - Nicole A. Doria-Rose
+  - Adrian McDermott
+  - Yuxing Li
+  - Tae-Wook Chun
+  - Steven H. Kleinstein
+  - John S. Tsang
+  - Constantinos Petrovas
+  - Susan Moir
+  publisher: Science Translational Medicine
+  date: '2019-11-27'
+  link: https://doi.org/gsqw6x
+  orcid: 0000-0002-1940-393X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/molbev/msz242
+  title: 'Molecular Biology and Evolution of Cancer: From Discovery to Action'
+  authors:
+  - Jason A Somarelli
+  - Heather Gardner
+  - Vincent L Cannataro
+  - Ella F Gunady
+  - Amy M Boddy
+  - Norman A Johnson
+  - Jeffrey Nicholas Fisk
+  - Stephen G Gaffney
+  - Jeffrey H Chuang
+  - Sheng Li
+  - Francesca D Ciccarelli
+  - Anna R Panchenko
+  - Kate Megquier
+  - Sudhir Kumar
+  - Alex Dornburg
+  - James DeGregori
+  - Jeffrey P Townsend
+  publisher: Molecular Biology and Evolution
+  date: '2019-10-23'
+  link: https://doi.org/gj47qn
+  orcid: 0000-0002-1940-393X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: isbn:0692927557
+  title: Ivivin
+  authors: []
+  publisher: Owl You Need is Books
+  date: '2019-08-15'
+  link: ''
+  orcid: 0000-0002-1940-393X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1080/15384101.2017.1361064
+  title: p53 binding sites in normal and cancer cells are characterized by distinct
+    chromatin context
+  authors:
+  - Feifei Bao
+  - Peter R. LoVerso
+  - Jeffrey N. Fisk
+  - Victor B. Zhurkin
+  - Feng Cui
+  publisher: Cell Cycle
+  date: '2017-09-28'
+  link: https://doi.org/gftr6j
+  orcid: 0000-0002-1940-393X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/s12862-016-0837-3
+  title: 'PhyInformR: phylogenetic experimental design and phylogenomic data exploration
+    in R'
+  authors:
+  - Alex Dornburg
+  - J. Nick Fisk
+  - Jules Tamagnan
+  - Jeffrey P. Townsend
+  publisher: BMC Evolutionary Biology
+  date: '2016-12-01'
+  link: https://doi.org/f9d3zw
+  orcid: 0000-0002-1940-393X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1187/cbe.15-06-0124
+  title: Development of the Central Dogma Concept Inventory (CDCI) Assessment Tool
+  authors:
+  - Dina L. Newman
+  - Christopher W. Snyder
+  - J. Nick Fisk
+  - L. Kate Wright
+  publisher: "CBE\u2014Life Sciences Education"
+  date: '2016-06-01'
+  link: https://doi.org/ghgd68
+  orcid: 0000-0002-1940-393X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1187/cbe.CBE-13-09-0188
+  title: "DNA \u2192 RNA: What Do Students Think the Arrow Means?"
+  authors:
+  - L. Kate Wright
+  - J. Nick Fisk
+  - Dina L. Newman
+  publisher: "CBE\u2014Life Sciences Education"
+  date: '2014-06-01'
+  link: https://doi.org/gpgmh7
+  orcid: 0000-0002-1940-393X
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pcbi.1007128
@@ -92,9 +322,6 @@
   publisher: PLOS Computational Biology
   date: '2020-12-04'
   link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
-  plugin: sources.py
-  file: sources.yaml
   type: paper
   description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
     do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -111,21 +338,8 @@
   - open science
   - collaboration
   repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.csbj.2020.05.017
   title: Constructing knowledge graphs and their biomedical applications
   authors:
