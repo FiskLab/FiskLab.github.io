@@ -4,6 +4,7 @@
 # Fisk Lab @ URI's Website
 ## Please bear with us as the lab website is under-construction!
 The Fisk Lab is a dry-lab at URI focused on using "basic science" methods from evolution, population genetics, genomics, and bioinformatics as tools for translational research.
+
 We also pusure Discipline-Based Education Research (DBER) for Computational Biology
 
 {% include section.html %}
@@ -11,8 +12,7 @@ We also pusure Discipline-Based Education Research (DBER) for Computational Biol
 ## Highlights
 
 {% capture text %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We use computational biology to investigate the progression of human disease, especially cancer.
 
 {%
   include button.html
@@ -35,7 +35,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We work on a broad swath of projects both in the translational biosciences and in Discipline-Based Education Research.
 
 {%
   include button.html
@@ -60,7 +60,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+The Fisk Lab is new--we have many collaborators, but no teammembers--yet! Feel free to reach out if you're interested in joining the team.
 
 {%
   include button.html
