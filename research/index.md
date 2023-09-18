@@ -7,8 +7,8 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+The Fisk lab has broad interests, but has worked on projects in comparative genomics, cancer evolution, phylogenetic experimental design, community microbiology, and more!
+On the education side, we have two main focuses at the moment. The first is in trying to understand what makes interdisciplinary fields like computational biology so difficult to teach and learn, how that affects marginalized students, and what we can do to remedy it. The second is trying to improve STEM education in underserved communities while respecting thier modes of knowledge production.
 
 {% include section.html %}
 
