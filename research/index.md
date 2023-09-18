@@ -14,10 +14,11 @@ On the education side, we have two main focuses at the moment. The first is in t
 
 ## Highlighted
 
+<!---
 {% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
 
 {% include section.html %}
-
+-->
 ## All
 
 {% include search-box.html %}
