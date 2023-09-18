@@ -27,7 +27,7 @@ We use computational biology to investigate the progression of human disease, es
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/fisklab1.png"
   link="research"
   title="Our Research"
   text=text
