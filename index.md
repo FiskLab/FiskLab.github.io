@@ -5,7 +5,7 @@
 ## Please bear with us as the lab website is under-construction!
 The Fisk Lab is a dry-lab at URI focused on using "basic science" methods from evolution, population genetics, genomics, and bioinformatics as tools for translational research.
 
-We also pusure Discipline-Based Education Research (DBER) for Computational Biology
+We also pursue Discipline-Based Education Research (DBER) for Computational Biology and are broadly interested in advancing pluralistic but evidence-based modes of teaching and learning.
 
 {% include section.html %}
 
