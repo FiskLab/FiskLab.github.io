@@ -1,7 +1,7 @@
 ---
-name: John Doe
+name: Devin Azonye
 image: images/photo.jpg
-role: phd
+role: Undergraduate Researcher
 group: alum
 links:
   github: john-doe
