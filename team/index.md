@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-The Fisk lab is new to URI. While we have collaborations across many universities, Dr. Fisk is currently the only member of the lab.
+The Fisk lab is new to URI. While we have collaborations across many universities, we are still growing here at URI! Reach out if you are interested in joining or working with us.
 
 Want to join the team? [Contact us](https://fisklab.github.io/contact/)
 
