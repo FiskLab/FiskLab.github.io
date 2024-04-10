@@ -1,11 +1,97 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1158/1538-7445.am2024-1627
+  title: 'Abstract 1627: Persistence and dynamics of mutation, selection, and epistasis
+    during the somatic evolution of low-risk, high-risk, and metastatic prostate cancer'
+  authors:
+  - Moein Rajaei
+  - Alexander Yang
+  - Christopher N. Cross
+  - J Nick Fisk
+  - Elizabeth B. Perry
+  - Jeffrey D. Mandell
+  - Stephen G. Gaffney
+  - Takafumi N. Yamaguchi
+  - Julie Livingstone
+  - Vincent L. Cannataro
+  - Peter Humphrey
+  - Jose Costa
+  - Paul C. Boutros
+  - Jeffrey P. Townsend
+  publisher: Cancer Research
+  date: '2024-03-22'
+  link: https://doi.org/gtqmrm
+  orcid: 0000-0002-1940-393X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/1538-7445.am2024-548
+  title: 'Abstract 548: Exploiting pronounced selection pressure from therapeutic
+    bottlenecks to identify orthogonal immunotherapy targets'
+  authors:
+  - J. Nic Fisk
+  - Jeffrey P. Townsend
+  publisher: Cancer Research
+  date: '2024-03-22'
+  link: https://doi.org/gtp933
+  orcid: 0000-0002-1940-393X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/1538-7445.canevol23-a035
+  title: 'Abstract A035: Mutation of <i>NOTCH</i>1 is selected within normal esophageal
+    tissues, yet leads to selective epistasis suppressive of further evolution into
+    cancer'
+  authors:
+  - Kira A. Glasmacher
+  - Vincent L. Cannataro
+  - Jeffrey D. Mandell
+  - Mia Jackson
+  - J. Nic Fisk
+  - Jeffrey P. Townsend
+  publisher: Cancer Research
+  date: '2024-02-01'
+  link: https://doi.org/gtqmrn
+  orcid: 0000-0002-1940-393X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/1538-7445.canevol23-ia006
+  title: 'Abstract IA006: Leveraging the extreme selection induced by therapeutic
+    bottlenecks to subvert resistance via identifying evolutionarily-informed targets
+    for orthogonal immunotherapy'
+  authors:
+  - J. Nic Fisk
+  - Katerina Politi
+  - Scott Gettinger
+  - Jeffrey P Townsend
+  publisher: Cancer Research
+  date: '2024-02-01'
+  link: https://doi.org/gtp934
+  orcid: 0000-0002-1940-393X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/1538-7445.canevol23-ia010
+  title: 'Abstract IA010: Unraveling mutation and selection to better understand early
+    cancer evolution'
+  authors:
+  - Vincent L. Cannataro
+  - Kira A. Glasmacher
+  - Mary Summers
+  - Jeffrey D. Mandell
+  - J. Nic Fisk
+  - Mia Jackson
+  - Sem Asmelash
+  - Jeffrey P. Townsend
+  publisher: Cancer Research
+  date: '2024-02-01'
+  link: https://doi.org/gtqmrp
+  orcid: 0000-0002-1940-393X
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1101/2023.11.03.565535
   title: Mutation of NOTCH1 is selected within normal esophageal tissues, yet leads
     to selective epistasis suppressive of further evolution into cancer
   authors:
   - Kira A. Glasmacher
-  - Vincent L Cannataro
+  - Vincent L. Cannataro
   - Jeffrey D. Mandell
   - Mia Jackson
   - J. Nic Fisk
