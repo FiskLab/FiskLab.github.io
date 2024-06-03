@@ -12,7 +12,10 @@ This arm centers the study and improvement of education in discipline-specific w
 
 ## Affiliations
 The Fisk lab is located at the University of Rhode Island, where the PI (Assistant Professor Nic Fisk) is appointed.
+
 Fisk is a member of the [Brown/Lifespan Center for Clinical Cancer Informatics and Data Science](https://sites.brown.edu/ccids/).
+image: images/brown.PNG
+
 Fisk is also a sponsored entity of and friend to the [Townsend Lab](https://medicine.yale.edu/lab/townsend/) at Yale University.
 
 
