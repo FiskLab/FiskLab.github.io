@@ -7,8 +7,13 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
 
-This page has yet to be updated; please check in later!
-
+The Fisk Lab has a number of ongoing projects:
+- Cancer Evolution and Therapuetic Resistance
+- Origins of Cancer and Cancer Epidemiology
+- Natural Language Processing for cancer etiology and education
+- Productive Failure and Equity in the Teaching of Interdisciplinary Fields
+- Translational bioinformatics using evolution and AI/ML
+- Various collaborations (human genetics, single-cell analysis, marine biology, etc.)
 {% include tags.html tags="publication, resource, website" %}
 
 {% include search-info.html %}
