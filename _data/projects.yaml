@@ -8,12 +8,12 @@
   tags:
     - resource
 
-- title: Cool Package
-  subtitle: a subtitle
+- title: Evolution-informed AI/ML for Cancer
+  subtitle: Using biology and evolution to improve AI/ML
   group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  image: images/cesAI.jpg
+  link: https://aime24.aimedicine.info/
+  description: Training models on biologically-informed, evolutionary-based metrics improves interpretability and predictability.
   repo: fisklab
   tags:
     - resource
