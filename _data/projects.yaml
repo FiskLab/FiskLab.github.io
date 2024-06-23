@@ -1,9 +1,9 @@
-- title: Cool Dataset
-  subtitle: a subtitle
+- title: Cancer Therapeutic Resistance
+  subtitle: Describing and Subverting
   group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  image: images/tree1.jpg
+  link: https://pubmed.ncbi.nlm.nih.gov/34780851/
+  description: We work on describing and subverting cancer evolution
   repo: fisklab
   tags:
     - resource
