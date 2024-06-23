@@ -2,7 +2,7 @@
 ---
 
 # Fisk Lab @ URI
-## Please bear with us as the lab website is under-construction!
+## Values first research in computational biology, cancer, and pedagogy
 The Fisk Lab is a dry-lab at the University of Rhode Island with two distinct arms:
 ### Translational Bioinformatics
 This arm of the lab focuses on using "basic science" methods from evolution, population genetics, genomics, and bioinformatics as tools for translational research, particularly in cancer systems. The lab also works in collaboration with labs studying other systems, such as the marine systems often studied at URI, and assists in statistical analysis, experimental design, and data analysis with myriad collaborators. 
