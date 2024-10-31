@@ -4,7 +4,7 @@ author: nic-fisk
 tags: updates, presentations
 ---
 
-* Post In Progress *
+**Post In Progress**
 
 # This fall the Fisk Lab has been busy!
 *Welcome [Amanda Shaughnessy](https://fisklab.github.io/members/Amanda-Shaughnessy.html) to the lab!*
