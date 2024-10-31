@@ -18,6 +18,10 @@ undergrad:
   icon: fa-solid fa-user-graduate
   description: Undergraduate Student
 
+alum:
+  icon: fa-solid fa-graduation-cap
+  description: former lab member
+
 programmer:
   icon: fa-solid fa-code
   description: Programmer
