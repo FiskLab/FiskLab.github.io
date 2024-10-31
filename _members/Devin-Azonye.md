@@ -1,7 +1,7 @@
 ---
 name: Devin Azonye
 image: images/Devin_Photo.jpg
-role: Fmr. Undergraduate Researcher
+role: Undergraduate Alum
 group: Alum
 links:
   email: devinazoni@uri.edu
