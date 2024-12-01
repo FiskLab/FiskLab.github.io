@@ -1,6 +1,6 @@
 ---
 name: Michaela Weiss
-image: images/Weiss.jpg
+image: images/Weiss.jpeg
 description: Undergraduate Researcher
 role: Undergraduate Researcher
 links:
