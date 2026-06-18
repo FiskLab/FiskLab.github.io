@@ -2,7 +2,7 @@
 name: Amanda Shaughnessy
 image: images/amanda.jpg
 description: Undergraduate Researcher
-role: Undergraduate Researcher
+role: Alumni
 links:
   email: ashaugh7@uri.edu
 ---
