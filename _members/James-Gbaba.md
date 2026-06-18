@@ -2,7 +2,7 @@
 name: James Gbaba
 image: images/Gbaba.jpg
 description: Undergraduate Researcher
-role: Undergraduate Researcher
+role: Alum
 links:
   email: james_gbaba@uri.edu
 ---
