@@ -1,5 +1,195 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.64898/2026.03.30.714540
+  title: 'Signal, noise, and bias in phylogenetic inference: potential and limits
+    to the resolution of phylogenetic trees in the phylogenomic era'
+  authors:
+  - Alex Dornburg
+  - Zhuo Tony Su
+  - Yide Jin
+  - J. Nic Fisk
+  - Jeffrey P. Townsend
+  publisher: openRxiv
+  date: '2026-04-01'
+  link: https://doi.org/hbvnd6
+  orcid: 0000-0002-1940-393X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/1538-7445.AM2026-5566
+  title: 'Abstract 5566: Molecular evolution reveals low-prevalence driver mutations,
+    mutational synergies, and associated immune dynamics in ovarian cancer'
+  authors:
+  - Julia McAdams
+  - Nic Fisk
+  publisher: Cancer Research
+  date: '2026-04-03'
+  link: https://doi.org/hb769t
+  orcid: 0000-0002-1940-393X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/1538-7445.AM2026-707
+  title: 'Abstract 707: Phylogenetic and machine learning analyses of simulated ancestral
+    sequences reveals heterogeneous ccRCC evolution.'
+  authors:
+  - Nic Fisk
+  - Christopher Cross
+  - Brian M. Shuch
+  - Jeffrey Peter Townsend
+  publisher: Cancer Research
+  date: '2026-04-03'
+  link: https://doi.org/hb769v
+  orcid: 0000-0002-1940-393X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/1538-7445.AM2026-2729
+  title: 'Abstract 2729: The selective landscape of somatic mutations encodes histopathological
+    information in breast cancer.'
+  authors:
+  - Gift Asefon
+  - Nic Fisk
+  publisher: Cancer Research
+  date: '2026-04-03'
+  link: https://doi.org/hb769w
+  orcid: 0000-0002-1940-393X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2025.10.21.683591
+  title: TyCHE enables time-resolved lineage tracing of heterogeneously-evolving populations
+  authors:
+  - Jessie J. Fielding
+  - Sherry Wu
+  - Hunter J. Melton
+  - Crystal Z. Wang
+  - Nic Fisk
+  - Louis du Plessis
+  - Kenneth B. Hoehn
+  publisher: openRxiv
+  date: '2025-10-22'
+  link: https://doi.org/hbvnd7
+  orcid: 0000-0002-1940-393X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2025.09.25.678387
+  title: 'Somatic evolution of prostate cancer: mutation, selection, and epistasis
+    across disease stages'
+  authors:
+  - Moein Rajaei
+  - Alexander Yang
+  - Kira A. Glasmacher
+  - Christopher N. Cross
+  - Nic Fisk
+  - Elizabeth B. Perry
+  - Jeffrey D. Mandell
+  - Stephen G. Gaffney
+  - Takafumi N. Yamaguchi
+  - Julie Livingstone
+  - Jose Costa
+  - Peter Humphrey
+  - Vincent L. Cannataro
+  - Paul C. Boutros
+  - Jeffrey P. Townsend
+  publisher: openRxiv
+  date: '2025-09-28'
+  link: https://doi.org/hbvnd8
+  orcid: 0000-0002-1940-393X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/1538-7445.am2025-2671
+  title: 'Abstract 2671: Divergent evolutionary trajectories of the molecular subtypes
+    of breast cancer are driven by differential selection and selective epistasis'
+  authors:
+  - Jessica Liu
+  - Krishna Dasari
+  - Nicholas Fisk
+  - Carolyn Kravitz
+  - Lajos Pusztai
+  - Jeffrey Townsend
+  publisher: Cancer Research
+  date: '2025-04-21'
+  link: https://doi.org/hb769x
+  orcid: 0000-0002-1940-393X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/WIBI64774.2025.11115477
+  title: 'Overcoming Barriers to Cross-Disciplinary Education: A Productive Failure
+    Framework'
+  authors:
+  - Nic Fisk
+  publisher: 2025 Women in Bioinformatics Workshop (WIBI)
+  date: '2025-02-06'
+  link: https://doi.org/hbvnd9
+  orcid: 0000-0002-1940-393X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/1538-7445.CANEVOL25-A007
+  title: 'Abstract A007: Characterization of the recurrent and parallel evolution
+    of non-small cell lung cancer metastases to the brain'
+  authors:
+  - Nic Fisk
+  - Sarah Goldberg
+  - Jeffrey P. Townsend
+  publisher: Cancer Research
+  date: '2025-12-04'
+  link: https://doi.org/hb769z
+  orcid: 0000-0002-1940-393X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/1538-7445.CANEVOL25-IA007
+  title: 'Abstract IA007: Evolutionary cancer epidemiology'
+  authors:
+  - Carlo Maley
+  - Katherine Lawson-Michod
+  - Hannah Carter
+  - Kathleen Curtius
+  - Kathleen Houlahan
+  - Nic Fisk
+  - Li Liu
+  - Joseph Lachance
+  - James DeGregori
+  - Charles Swanton
+  - Zachary T. Compton
+  - Athena Aktipis
+  - Robert Hiatt
+  - Arcadi Navarro
+  publisher: Cancer Research
+  date: '2025-12-04'
+  link: https://doi.org/hb7692
+  orcid: 0000-0002-1940-393X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/1538-7445.AM2025-7496
+  title: 'Abstract 7496: Evolutionary trajectories inferred by selective epistasis
+    and phylogenetic analysis reveal the malignant progression of intraductal papillary
+    mucinous neoplasms to pancreatic ductal adenocarcinoma'
+  authors:
+  - Derek C. Song
+  - Nic Fisk
+  - Margaret Moore
+  - Vincent L. Cannataro
+  - Jeffrey D. Mandell
+  - Luisa Escobar-Hoyos
+  - Leanne Brown
+  - Lu Qiao
+  - John W. Kunstman
+  - Jeffrey P. Townsend
+  publisher: Cancer Research
+  date: '2025-04-21'
+  link: https://doi.org/hb7693
+  orcid: 0000-0002-1940-393X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/1538-7445.AM2025-1016
+  title: 'Abstract 1016: Reduction of social disparities in clinical cancer feature
+    prediction via somatic evolutionary embedding of mutational data'
+  authors:
+  - Nic Fisk
+  - Jeffrey P. Townsend
+  publisher: Cancer Research
+  date: '2025-04-21'
+  link: https://doi.org/hb7694
+  orcid: 0000-0002-1940-393X
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1158/1538-7445.am2024-1627
   title: 'Abstract 1627: Persistence and dynamics of mutation, selection, and epistasis
     during the somatic evolution of low-risk, high-risk, and metastatic prostate cancer'
@@ -24,18 +214,6 @@
   orcid: 0000-0002-1940-393X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1158/1538-7445.am2024-548
-  title: 'Abstract 548: Exploiting pronounced selection pressure from therapeutic
-    bottlenecks to identify orthogonal immunotherapy targets'
-  authors:
-  - J. Nic Fisk
-  - Jeffrey P. Townsend
-  publisher: Cancer Research
-  date: '2024-03-22'
-  link: https://doi.org/gtp933
-  orcid: 0000-0002-1940-393X
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1158/1538-7445.canevol23-a035
   title: 'Abstract A035: Mutation of <i>NOTCH</i>1 is selected within normal esophageal
     tissues, yet leads to selective epistasis suppressive of further evolution into
@@ -50,21 +228,6 @@
   publisher: Cancer Research
   date: '2024-02-01'
   link: https://doi.org/gtqmrn
-  orcid: 0000-0002-1940-393X
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1158/1538-7445.canevol23-ia006
-  title: 'Abstract IA006: Leveraging the extreme selection induced by therapeutic
-    bottlenecks to subvert resistance via identifying evolutionarily-informed targets
-    for orthogonal immunotherapy'
-  authors:
-  - J. Nic Fisk
-  - Katerina Politi
-  - Scott Gettinger
-  - Jeffrey P Townsend
-  publisher: Cancer Research
-  date: '2024-02-01'
-  link: https://doi.org/gtp934
   orcid: 0000-0002-1940-393X
   plugin: orcid.py
   file: orcid.yaml
@@ -86,39 +249,50 @@
   orcid: 0000-0002-1940-393X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.11.03.565535
-  title: Mutation of NOTCH1 is selected within normal esophageal tissues, yet leads
-    to selective epistasis suppressive of further evolution into cancer
+- id: doi:10.1158/1538-7445.PANCREATIC24-C030
+  title: 'Abstract C030: Evolutionary and epistatic analyses reveal genic interactions
+    with KRAS during malignant progression of pancreatic ductal adenocarcinoma'
   authors:
-  - Kira A. Glasmacher
+  - Nic Fisk
+  - Derek Song
+  - Margaret Moore
+  - Cole G Jensen
   - Vincent L. Cannataro
-  - Jeffrey D. Mandell
-  - Mia Jackson
-  - J. Nic Fisk
-  - Jeffrey P. Townsend
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-11-05'
-  link: https://doi.org/gs3rmw
+  - Mofeed Nagib
+  - Jeffrey D Mandell
+  - Luisa Escobar-Hoyos
+  - John W Kunstman
+  - Jeffrey P Townsend
+  publisher: Cancer Research
+  date: '2024-09-15'
+  link: https://doi.org/hb7695
   orcid: 0000-0002-1940-393X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.08.07.552269
-  title: Purifying selection and adaptive evolution proximate to the zoonosis of SARS-CoV-1
-    and SARS-CoV-2
+- id: doi:10.1158/1538-7445.AM2024-548
+  title: 'Abstract 548: Exploiting pronounced selection pressure from therapeutic
+    bottlenecks to identify orthogonal immunotherapy targets'
   authors:
+  - J. Nic Fisk
   - Jeffrey P. Townsend
-  - Stephen Gaughran
-  - Hayley B. Hassler
-  - J. Nicholas Fisk
-  - Mofeed Nagib
-  - Yinfei Wu
-  - Yaning Wang
-  - Zheng Wang
-  - Alison P. Galvani
-  - Alex Dornburg
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-08-07'
-  link: https://doi.org/gsqw6k
+  publisher: Cancer Research
+  date: '2024-03-22'
+  link: https://doi.org/gtp933
+  orcid: 0000-0002-1940-393X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/1538-7445.CANEVOL23-IA006
+  title: 'Abstract IA006: Leveraging the extreme selection induced by therapeutic
+    bottlenecks to subvert resistance via identifying evolutionarily-informed targets
+    for orthogonal immunotherapy'
+  authors:
+  - J. Nic Fisk
+  - Katerina Politi
+  - Scott Gettinger
+  - Jeffrey P Townsend
+  publisher: Cancer Research
+  date: '2024-02-01'
+  link: https://doi.org/gtp934
   orcid: 0000-0002-1940-393X
   plugin: orcid.py
   file: orcid.yaml
@@ -152,20 +326,23 @@
   orcid: 0000-0002-1940-393X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1038/s41375-022-01752-5
-  title: Not only mutations but also tumorigenesis can be substantially attributed
-    to DNA damage from reactive oxygen species in RUNX1::RUNX1T1-fusion-positive acute
-    myeloid leukemia
+- id: doi:10.1101/2023.08.07.552269
+  title: Purifying selection and adaptive evolution proximate to the zoonosis of SARS-CoV-1
+    and SARS-CoV-2
   authors:
-  - Jeffrey D. Mandell
-  - J. Nick Fisk
-  - Ethan Cyrenne
-  - Mina L. Xu
-  - Vincent L. Cannataro
   - Jeffrey P. Townsend
-  publisher: Leukemia
-  date: '2022-11-11'
-  link: https://doi.org/gsqw6p
+  - Stephen Gaughran
+  - Hayley B. Hassler
+  - J. Nicholas Fisk
+  - Mofeed Nagib
+  - Yinfei Wu
+  - Yaning Wang
+  - Zheng Wang
+  - Alison P. Galvani
+  - Alex Dornburg
+  publisher: openRxiv
+  date: '2023-08-07'
+  link: https://doi.org/gsqw6k
   orcid: 0000-0002-1940-393X
   plugin: orcid.py
   file: orcid.yaml
@@ -177,25 +354,6 @@
     graduate instructors by graduate instructors '
   date: '2019-08-15'
   link: https://scholarworks.rit.edu/theses/9000/
-  orcid: 0000-0002-1940-393X
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1016/j.canlet.2021.11.011
-  title: Premetastatic shifts of endogenous and exogenous mutational processes support
-    consolidative therapy in EGFR-driven lung adenocarcinoma
-  authors:
-  - J. Nicholas Fisk
-  - Amandeep R. Mahal
-  - Alex Dornburg
-  - Stephen G. Gaffney
-  - Sanjay Aneja
-  - Joseph N. Contessa
-  - David Rimm
-  - James B. Yu
-  - Jeffrey P. Townsend
-  publisher: Cancer Letters
-  date: '2022-02-01'
-  link: https://doi.org/gsqw6q
   orcid: 0000-0002-1940-393X
   plugin: orcid.py
   file: orcid.yaml
@@ -224,6 +382,82 @@
   publisher: Human Genomics
   date: '2022-01-06'
   link: https://doi.org/gsqw6s
+  orcid: 0000-0002-1940-393X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.26079/da16-f285
+  title: 'Exploring How We Teach: Lived Experiences, Lessons, and Research about Graduate
+    Instructors by Graduate Instructors'
+  authors:
+  - Audrey Tocco
+  - Avaneesh Narla
+  - Elizabeth Giardina
+  - Erin Hughes
+  - Faqryza Ab Latif
+  - Heath J. Wooten
+  - J. Nick Fisk
+  - Jennie Baker
+  - Jonathan Simmons
+  - Kristyn Lue
+  - Melissa Leaym-Fernandez
+  - Natalie Low
+  - Ryan Cheek
+  - Samantha Prado
+  - Sandra Silva-Enos
+  - Shannon Kelley
+  - Stacy Bluth
+  - Taneisha Vilma
+  - Theresa Hice-Fromille
+  - Alexandra Lee
+  - April Athnos
+  - Tianyi Kou-Herrema
+  - Seth Hunt
+  - Ellen Searle
+  - Emile Oshima
+  - Olivia Wilkins
+  - Nathalie Marinho
+  - Matthew Langley
+  - Hima Rawal
+  - Harrison Parker
+  publisher: Utah State University
+  date: '2022-01-01'
+  link: https://doi.org/hbvnfb
+  orcid: 0000-0002-1940-393X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/S41375-022-01752-5
+  title: Not only mutations but also tumorigenesis can be substantially attributed
+    to DNA damage from reactive oxygen species in RUNX1::RUNX1T1-fusion-positive acute
+    myeloid leukemia
+  authors:
+  - Jeffrey D. Mandell
+  - J. Nick Fisk
+  - Ethan Cyrenne
+  - Mina L. Xu
+  - Vincent L. Cannataro
+  - Jeffrey P. Townsend
+  publisher: Leukemia
+  date: '2022-11-11'
+  link: https://doi.org/gsqw6p
+  orcid: 0000-0002-1940-393X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/J.CANLET.2021.11.011
+  title: Premetastatic shifts of endogenous and exogenous mutational processes support
+    consolidative therapy in EGFR-driven lung adenocarcinoma
+  authors:
+  - J. Nicholas Fisk
+  - Amandeep R. Mahal
+  - Alex Dornburg
+  - Stephen G. Gaffney
+  - Sanjay Aneja
+  - Joseph N. Contessa
+  - David Rimm
+  - James B. Yu
+  - Jeffrey P. Townsend
+  publisher: Cancer Letters
+  date: '2022-02-01'
+  link: https://doi.org/gsqw6q
   orcid: 0000-0002-1940-393X
   plugin: orcid.py
   file: orcid.yaml
@@ -279,9 +513,35 @@
   - David Rimm
   - James B. Yu
   - Jeffrey P. Townsend
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2021-05-04'
   link: https://doi.org/gsqw6w
+  orcid: 0000-0002-1940-393X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/MOLBEV/MSZ242
+  title: 'Molecular Biology and Evolution of Cancer: From Discovery to Action'
+  authors:
+  - Jason A Somarelli
+  - Heather Gardner
+  - Vincent L Cannataro
+  - Ella F Gunady
+  - Amy M Boddy
+  - Norman A Johnson
+  - Jeffrey Nicholas Fisk
+  - Stephen G Gaffney
+  - Jeffrey H Chuang
+  - Sheng Li
+  - Francesca D Ciccarelli
+  - Anna R Panchenko
+  - Kate Megquier
+  - Sudhir Kumar
+  - Alex Dornburg
+  - James DeGregori
+  - Jeffrey P Townsend
+  publisher: Molecular Biology and Evolution
+  date: '2019-10-23'
+  link: https://doi.org/gj47qn
   orcid: 0000-0002-1940-393X
   plugin: orcid.py
   file: orcid.yaml
@@ -322,38 +582,25 @@
   orcid: 0000-0002-1940-393X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/molbev/msz242
-  title: 'Molecular Biology and Evolution of Cancer: From Discovery to Action'
-  authors:
-  - Jason A Somarelli
-  - Heather Gardner
-  - Vincent L Cannataro
-  - Ella F Gunady
-  - Amy M Boddy
-  - Norman A Johnson
-  - Jeffrey Nicholas Fisk
-  - Stephen G Gaffney
-  - Jeffrey H Chuang
-  - Sheng Li
-  - Francesca D Ciccarelli
-  - Anna R Panchenko
-  - Kate Megquier
-  - Sudhir Kumar
-  - Alex Dornburg
-  - James DeGregori
-  - Jeffrey P Townsend
-  publisher: Molecular Biology and Evolution
-  date: '2019-10-23'
-  link: https://doi.org/gj47qn
+- id: isbn:0692927557
+  title: Ivivin
+  publisher: Owl You Need is Books
+  date: '2019-08-15'
   orcid: 0000-0002-1940-393X
   plugin: orcid.py
   file: orcid.yaml
-- id: isbn:0692927557
-  title: Ivivin
-  authors: []
-  publisher: Owl You Need is Books
-  date: '2019-08-15'
-  link: ''
+- id: doi:10.1101/105221
+  title: p53 binding sites in normal and cancer cells are characterized by distinct
+    chromatin context
+  authors:
+  - Feifei Bao
+  - Peter R. LoVerso
+  - Jeffrey N. Fisk
+  - Victor B. Zhurkin
+  - Feng Cui
+  publisher: openRxiv
+  date: '2017-02-02'
+  link: https://doi.org/gkxdmg
   orcid: 0000-0002-1940-393X
   plugin: orcid.py
   file: orcid.yaml
@@ -372,7 +619,20 @@
   orcid: 0000-0002-1940-393X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1186/s12862-016-0837-3
+- id: doi:10.1187/CBE.15-06-0124
+  title: Development of the Central Dogma Concept Inventory (CDCI) Assessment Tool
+  authors:
+  - Dina L. Newman
+  - Christopher W. Snyder
+  - J. Nick Fisk
+  - L. Kate Wright
+  publisher: "CBE\u2014Life Sciences Education"
+  date: '2016-06-01'
+  link: https://doi.org/ghgd68
+  orcid: 0000-0002-1940-393X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/S12862-016-0837-3
   title: 'PhyInformR: phylogenetic experimental design and phylogenomic data exploration
     in R'
   authors:
@@ -383,19 +643,6 @@
   publisher: BMC Evolutionary Biology
   date: '2016-12-01'
   link: https://doi.org/f9d3zw
-  orcid: 0000-0002-1940-393X
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1187/cbe.15-06-0124
-  title: Development of the Central Dogma Concept Inventory (CDCI) Assessment Tool
-  authors:
-  - Dina L. Newman
-  - Christopher W. Snyder
-  - J. Nick Fisk
-  - L. Kate Wright
-  publisher: "CBE\u2014Life Sciences Education"
-  date: '2016-06-01'
-  link: https://doi.org/ghgd68
   orcid: 0000-0002-1940-393X
   plugin: orcid.py
   file: orcid.yaml
@@ -413,7 +660,21 @@
   orcid: 0000-0002-1940-393X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1187/cbe.CBE-13-09-0188
+- id: doi:10.5281/zenodo.10059292
+  title: DEVELOPMENT OF CDCI-SHINE, AN R-BASED WEB APPLICATION FOR THE ANALYSIS OF
+    RESULTS FROM THE CENTRAL DOGMA CONCEPT INVENTORY (CDCI)
+  authors:
+  - Nic Fisk
+  - Christopher Snyder
+  - Dina Newman
+  - L. Kate Wright
+  publisher: Zenodo
+  date: '2015-11-07'
+  link: https://doi.org/hbvnfc
+  orcid: 0000-0002-1940-393X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1187/CBE.CBE-13-09-0188
   title: "DNA \u2192 RNA: What Do Students Think the Arrow Means?"
   authors:
   - L. Kate Wright
@@ -422,6 +683,23 @@
   publisher: "CBE\u2014Life Sciences Education"
   date: '2014-06-01'
   link: https://doi.org/gpgmh7
+  orcid: 0000-0002-1940-393X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2023.11.03.565535
+  title: "Early\n                  <i>NOTCH1</i>\n                  mutation is positively\
+    \ selected but epistatically suppresses evolution of later esophageal squamous-cell\
+    \ carcinoma drivers"
+  authors:
+  - Kira A. Glasmacher
+  - Jeffrey D. Mandell
+  - Mia Jackson
+  - Nic Fisk
+  - Vincent L. Cannataro
+  - Jeffrey P. Townsend
+  publisher: openRxiv
+  date: '2023-11-05'
+  link: https://doi.org/gs3rmw
   orcid: 0000-0002-1940-393X
   plugin: orcid.py
   file: orcid.yaml
