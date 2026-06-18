@@ -2,7 +2,7 @@
 name: Sabrina Zecher
 image: images/Zecher.jpg
 description: Undergraduate Researcher
-role: Undergraduate Researcher
+role: Alum
 links:
   email: srodriguez7@uri.edu
 ---
